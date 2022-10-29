@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Kushal Achar B S</h1>
 <h3 align="center">A rookie coder from India</h3>
-<img aligh="left" alt="Coding " src="https://miro.medium.com/max/750/0*7Q3yvSIv_t0ioJ-Z.gif">
+<img aligh="right"  alt="Coding "  width="400" src="https://miro.medium.com/max/750/0*7Q3yvSIv_t0ioJ-Z.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kushalkush1804&label=Profile%20views&color=0e75b6&style=flat" alt="kushalkush1804" /> </p>
 
